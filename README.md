@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muratsiraci
-- 👀 I’m interested in pc games , codding , pic programming , c+ , mini phyton and phyton programing
-- 🌱 I’m currently learning ...panel programming ,  
+- 👀 I’m interested in pc games , codding , pic programming , c+ , mini phyton and phyton programing , ares proteus
+- 🌱 I’m currently learning ...panel programming ,  mini phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muratsiraci@gmail.com.
 
