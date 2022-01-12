@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muratsiraci
 - 👀 I’m interested in pc games , codding , pic programming , c+ , mini phyton and phyton programing , ares proteus
-- 🌱 I’m currently learning ...panel programming ,  mini phyton
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...panel programming ,  mini phyton , php , sql ,  pic programming , c++
+- 💞️ I’m looking to collaborate on education.
 - 📫 How to reach me shadowwarrior112@gmail.com
 
 <!---
